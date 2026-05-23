@@ -35,3 +35,21 @@ Database:
 ```bash
 cd backend
 node server.js
+
+### Frontend
+cd frontend
+npm run dev
+
+## Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Compare Colleges
+
+![Compare](screenshots/compare.png)
+
+### College Details
+
+![Details](screenshots/details.png)
