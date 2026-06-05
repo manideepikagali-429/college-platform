@@ -30,9 +30,8 @@ Database:
 
 ## Run Locally
 
-### Backend
 
-```bash
+### Backend
 cd backend
 node server.js
 
