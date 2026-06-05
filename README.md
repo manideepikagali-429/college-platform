@@ -30,13 +30,15 @@ Database:
 
 ## Run Locally
 
-'''bash
+
 ### Backend
 cd backend
+
 node server.js
 
 ### Frontend
 cd frontend
+
 npm run dev
 
 ## Screenshots
